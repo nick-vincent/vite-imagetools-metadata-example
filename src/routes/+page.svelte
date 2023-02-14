@@ -8,7 +8,7 @@
 <p><img src={Image.src} /></p>
 
 <ul>
-  <li><code>Image.src: {Image.src} (should be 16:9)</code></li>
+  <li><code>Image.aspect: {Image.aspect} (should be 16:9)</code></li>
   <li><code>Image.height: {Image.height} (should be 270)</code></li>
-  <li><code>Image.src: {Image.width} (should be 480)</code></li>
+  <li><code>Image.width: {Image.width} (should be 480)</code></li>
 </ul>
