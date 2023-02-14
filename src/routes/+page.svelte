@@ -3,7 +3,7 @@
   console.log(Image);
 </script>
 
-<p><code>import Image from '../img/1600x900.png?webp&w=480&h=480&meta';</code></p>
+<p><code>import Image from '../img/1600x900.png?fit=inside&webp&w=480&h=480&meta';</code></p>
 
 <p><img src={Image.src} /></p>
 
